@@ -1,0 +1,5 @@
+{
+  "name": "Dark Portfolio",
+  "description": "A high-performance personal portfolio with a dark theme, utilizing complex animations and shadcn/ui components.",
+  "requestFramePermissions": []
+}
